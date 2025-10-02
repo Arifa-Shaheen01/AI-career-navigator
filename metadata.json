@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Navigator",
+  "description": "A responsive web application to recommend personalized vocational pathways based on learner profiles, NSQF-aligned programs, and labour market intelligence. Built as a lightweight prototype for Smart India Hackathon 2025.",
+  "requestFramePermissions": []
+}
